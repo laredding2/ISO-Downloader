@@ -45,9 +45,9 @@ python iso_downloader.py download ubuntu 24.04
 python iso_downloader.py download debian 12
 ```
 
-**Fedora 41**
+**Fedora 43**
 ```bash
-python iso_downloader.py download fedora 41
+python iso_downloader.py download fedora 43
 ```
 
 **Arch Linux (latest)**
