@@ -33,7 +33,7 @@ A Python utility for finding, downloading, and verifying the integrity of operat
 
 1. Clone or download this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/laredding2/ISO-Downloader.git
 cd iso-downloader
 ```
 
