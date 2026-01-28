@@ -45,8 +45,8 @@ class ISODownloader:
         'debian': {
             'name': 'Debian',
             'versions': {
-                '12': {
-                    'url': 'https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.8.0-amd64-DVD-1.iso',
+                '13': {
+                    'url': 'https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-13.3.0-amd64-DVD-1.iso',
                     'checksum_url': 'https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/SHA256SUMS',
                     'checksum_type': 'sha256'
                 }
