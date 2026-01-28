@@ -15,10 +15,10 @@ A Python utility for finding, downloading, and verifying the integrity of operat
 
 | OS | Versions |
 |---|---|
-| Ubuntu | 24.04, 22.04 |
+| Ubuntu | 24.04 |
 | Debian | 12 |
-| Fedora Workstation | 41 |
-| Arch Linux | latest |
+| Fedora Workstation | 43 |
+| Arch Linux | 2026.01.01 |
 | Manjaro | GNOME 24.1.2 |
 | Linux Mint | 22 |
 
@@ -123,15 +123,6 @@ After downloading, the tool:
 - Detects corrupted downloads
 - Warns about mismatches
 
-### Currently Added OSs
-
-- Ubuntu 24.04
-- Debian 12.8.0
-- Fedora 43.1.6
-- Arch Linux 2026.01.01
-- Manjaro 24.1.2
-- Linux Mint 22
-- 
 ## Output
 
 Downloaded ISOs are saved to the `downloads/` directory in the same folder as the script.
