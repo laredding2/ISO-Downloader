@@ -123,6 +123,15 @@ After downloading, the tool:
 - Detects corrupted downloads
 - Warns about mismatches
 
+### Currently Added OSs
+
+- Ubuntu 24.04
+- Debian 12.8.0
+- Fedora 43.1.6
+- Arch Linux 2026.01.01
+- Manjaro 24.1.2
+- Linux Mint 22
+- 
 ## Output
 
 Downloaded ISOs are saved to the `downloads/` directory in the same folder as the script.
@@ -178,7 +187,7 @@ If a file already exists, you'll be prompted:
 
 ## Extending the Tool
 
-To add new operating systems, edit the `OS_SOURCES` dictionary in `iso_downloader.py`:
+To add new operating systems, edit the `OS_SOURCES` dictionary in `iso_downloader.py` (I'll be adding more OSs in the future):
 
 ```python
 'newos': {
