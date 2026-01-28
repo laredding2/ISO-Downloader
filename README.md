@@ -16,7 +16,7 @@ A Python utility for finding, downloading, and verifying the integrity of operat
 | OS | Versions |
 |---|---|
 | Ubuntu | 24.04 |
-| Debian | 12 |
+| Debian | 13 |
 | Fedora Workstation | 43 |
 | Arch Linux | 2026.01.01 |
 | Manjaro | GNOME 24.1.2 |
