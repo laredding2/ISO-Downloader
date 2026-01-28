@@ -56,8 +56,8 @@ class ISODownloader:
             'name': 'Fedora Workstation',
             'versions': {
                 '41': {
-                    'url': 'https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41-1.4.iso',
-                    'checksum_url': 'https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-41-1.4-x86_64-CHECKSUM',
+                    'url': 'https://download.fedoraproject.org/pub/fedora/linux/releases/43/Workstation/x86_64/iso/Fedora-Workstation-Live-43-1.6.x86_64.iso',
+                    'checksum_url': 'https://ftp2.osuosl.org/pub/fedora/linux/releases/43/Workstation/x86_64/iso/Fedora-Workstation-43-1.6-x86_64-CHECKSUM',
                     'checksum_type': 'sha256'
                 }
             }
